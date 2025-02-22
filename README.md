@@ -1,4 +1,4 @@
-# video-retrieval-CLIP
+# CLIPLoRA-Persian-VideoRetrieval
 
 This project improves Persian video search by fine-tuning the CLIP model with LoRA, making text-to-video search smooth and effective. Using multimodal learning, it connects Persian text queries with instructional video content for better retrieval.
 
